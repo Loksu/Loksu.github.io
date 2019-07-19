@@ -19,4 +19,4 @@ class: impact
 
 ## Contents
 
-- [Ellpy](ellpy/index.html)
+- [Convex Optimization](cvx/index.html)
