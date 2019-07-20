@@ -19,4 +19,5 @@ class: impact
 
 ## Contents
 
+- [Software Development](development/index.html)
 - [Convex Optimization](cvx/index.html)
